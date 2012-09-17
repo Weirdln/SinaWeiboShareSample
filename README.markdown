@@ -33,4 +33,4 @@ sinaWeiboViewComposer.completionHandler = completionHandler;
 ```
 
 ## What does it look like?
-![DESinaWeiboComposeViewController](https://github.com/xnmdyjj/SinaWeiboShareSample/blob/master/SinaWeiboShareSample/share.png) 
+![DESinaWeiboComposeViewController](https://raw.github.com/xnmdyjj/SinaWeiboShareSample/master/SinaWeiboShareSample/share.png) 
